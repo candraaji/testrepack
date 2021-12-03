@@ -1,6 +1,9 @@
 # testrepack
 
-from : https://github.com/zamotany/module-federation-repack
+from : zamotany/module-federation-repack
+modify :
+- navigation
+- related module dependencies
 
 # Module Federation example using Webpack and Re.Pack for React Native
 
